@@ -1,5 +1,6 @@
-### HTML CODE commented out
-<!-- <div class="profile-card">
+### HTML CODE
+```
+<div class="profile-card">
   <div class="info">
     <h1>Template person</h1>
     <a href="w3schools.com" target="_blank">w3schools.com</a>
@@ -7,7 +8,8 @@
   <div class="profile-pic">
     <img src="https://www.w3schools.com/howto/img_avatar.png" alt="Template person">
   </div>
-</div> -->
+</div>
+```
 
 ### CSS CODE
 /*
