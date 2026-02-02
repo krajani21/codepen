@@ -12,6 +12,7 @@
 ```
 
 ### CSS CODE
+```
 /*
 
 - Create a card UI similar to the image using HTML and CSS
@@ -54,3 +55,4 @@
   border: 1px solid;
 }
 
+```
